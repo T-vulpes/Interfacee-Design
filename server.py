@@ -2,7 +2,6 @@ import csv
 import socket
 import threading
 
-# Sabitler
 PORT = 37256
 IP = '192.168.77.218'
 ADDR = (IP, PORT)
