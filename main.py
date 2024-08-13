@@ -72,9 +72,7 @@ class MyForm(QWidget):
         thread = threading.Thread(target=server.send_message, args=(message,))
         thread.start()
         thread.join()
-        
-#Süre buton-baslangıç
-        
+                
     def sure_a(self):
         self.timer3 = QTimer()
         self.timer3.timeout.connect(self.sure_art)
@@ -83,31 +81,22 @@ class MyForm(QWidget):
     def sure_art(self):
         self.sure_artis += 1
         self.repaint()
-        self.sure.setTime(QtCore.QTime(0, 0, self.sure_artis))
-        
-#sure buton-son
-        
+        self.sure.setTime(QtCore.QTime(0, 0, self.sure_artis))        
 
-#clear buton kod
     def clearbtn_info(self):
         self.bilgi_message.setText("")
 
     def clearbtn_err(self):
         self.hata_message.setText("")
 
-#baslatbuton   
     def start_function(self):
         self.sure_a()
         self.baslat_thread()
 
-
-
-#durdur buton       
     def stop_function(self):
         self.durdur_thread()
         self.timer2.stop()
 
-# TELE paket decoder
     def decode_tele(self, liste):
         #ax,ay,az,gx,gy,gz
         self.roll_veri.setText(str(liste[1]))
@@ -119,7 +108,6 @@ class MyForm(QWidget):
         self.acceleration_z.setText(str(liste[6]))
                 
 
-        #sıcaklık
         self.tableWidget.setItem(0, 0, QTableWidgetItem(str(liste[7])))
         self.tableWidget.setItem(0, 2, QTableWidgetItem(str(liste[9])))
         self.tableWidget.setItem(0, 4, QTableWidgetItem(str(liste[10])))
