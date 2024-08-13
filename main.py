@@ -124,8 +124,6 @@ class MyForm(QWidget):
 
         self.dist=str(liste[17])
         self.s_40.setText("")
-        #if self.dist == 168 :
-        #    self.s_40.setText("40m")
                 
         #basınc
         self.perssure_lbl.setText(str(liste[18]))
@@ -274,8 +272,6 @@ class MyForm(QWidget):
 
                 self.dist=str(liste[17])
                 self.s_40.setText("")
-                #if self.dist == 168 :
-                #    self.s_40.setText("40m")
                 
                 #basınc
                 self.perssure_lbl.setText(str(liste[18]))
@@ -376,7 +372,6 @@ class MyForm(QWidget):
         
 #bağlantı kısmı  --son
     
-#disconnect butonu
     def disconnect_func(self):
         server.disconnect
         self.baglan.setText("Disconnected")
