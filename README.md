@@ -29,8 +29,9 @@ As a member of the Thunderloop team, I proudly participated in Teknofest 2023 an
 2. **Website**: Visit the [Thunderloop website](http://www.thunderloop.com.tr/) to learn more about our team and projects.
 
 
-## TR
-### Genel Bakış
+#
+
+### Genel Bakış [TR]
 
 Thunderloop takımının bir üyesi olarak, Teknofest 2023 ve EHW23 yarışmalarına gururla katıldım. Takım adına, Python ve PyQt kullanarak bir kullanıcı arayüzü geliştirdim ve ayrıca projelerimizi ve başarılarımızı sergilemek için takımın web sitesini oluşturdum.
 
