@@ -1,7 +1,5 @@
 # Interface and Website
-
-## EN
-### Overview
+### Overview [EN]
 
 As a member of the Thunderloop team, I proudly participated in Teknofest 2023 and EHW23 competitions. I developed a user interface using Python and PyQt for the team and also created the team's website to showcase our projects and achievements.
 
