@@ -26,7 +26,6 @@ As a member of the Thunderloop team, I proudly participated in Teknofest 2023 an
 1. **Interface**: Follow the instructions in the `interface/README.md` file to set up and run the interface application.
 2. **Website**: Visit the [Thunderloop website](http://www.thunderloop.com.tr/) to learn more about our team and projects.
 
-
 #
 
 ### [TR]
