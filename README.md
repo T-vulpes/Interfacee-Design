@@ -45,4 +45,5 @@ Thunderloop takımının bir üyesi olarak, Teknofest 2023 ve EHW23 yarışmalar
 
  **Web Sitesi**: Takımımız ve projelerimiz hakkında daha fazla bilgi edinmek için [Thunderloop web sitesini](http://www.thunderloop.com.tr/) ziyaret edin.
 
+#
 
