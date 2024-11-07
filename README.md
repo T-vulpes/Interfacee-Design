@@ -12,7 +12,6 @@ As a member of the Thunderloop team, I proudly participated in Teknofest 2023 an
 - **User Interface**: 
   - Developed using Python and PyQt
   - Intuitive and user-friendly design
-  - Essential for competition presentations and project demonstrations
 
 - **Website**: 
   - Modern and responsive design
@@ -38,7 +37,6 @@ Thunderloop takımının bir üyesi olarak, Teknofest 2023 ve EHW23 yarışmalar
 - **Kullanıcı Arayüzü**: 
   - Python ve PyQt kullanılarak geliştirildi
   - Kullanıcı dostu ve sezgisel tasarım
-  - Yarışma sunumları ve proje tanıtımları için önemli
 
 - **Web Sitesi**: 
   - Modern ve duyarlı tasarım
