@@ -19,10 +19,7 @@ As a member of the Thunderloop team, I proudly participated in Teknofest 2023 an
   - Comprehensive information about the team and projects
   - Regular updates with our latest achievements and news
 
-### How to Use
-
-1. **Interface**: Follow the instructions in the `interface/README.md` file to set up and run the interface application.
-2. **Website**: Visit the [Thunderloop website](http://www.thunderloop.com.tr/) to learn more about our team and projects.
+ **Website**: Visit the [Thunderloop website](http://www.thunderloop.com.tr/) to learn more about our team and projects.
 
 #
 
@@ -48,9 +45,6 @@ Thunderloop takımının bir üyesi olarak, Teknofest 2023 ve EHW23 yarışmalar
   - Takım ve projeler hakkında kapsamlı bilgi
   - En son başarılarımız ve haberlerle düzenli güncellemeler
 
-### Kullanım
-
-1. **Arayüz**: Arayüz uygulamasını kurmak ve çalıştırmak için `interface/README.md` dosyasındaki talimatları izleyin.
-2. **Web Sitesi**: Takımımız ve projelerimiz hakkında daha fazla bilgi edinmek için [Thunderloop web sitesini](http://www.thunderloop.com.tr/) ziyaret edin.
+ **Web Sitesi**: Takımımız ve projelerimiz hakkında daha fazla bilgi edinmek için [Thunderloop web sitesini](http://www.thunderloop.com.tr/) ziyaret edin.
 
 
